@@ -1,6 +1,6 @@
 {
 
-  "host": "0.0.0.0",
+  "host": "78.47.200.186",
   "port": 7777,
 
   "keyLength": 10,
@@ -33,11 +33,10 @@
   },
 
   "storage": {
-    "type": "memcached",
-    "host": "127.0.0.1",
-    "port": 11211,
-    "expire": 2592000
-  },
+    "type": "amazon-s3",
+    "bucket": "support-pp-hastebin",
+    "region": "eu-central-1"
+},
 
   "documents": {
     "about": "./about.md"
