@@ -16,7 +16,7 @@
   "dependencies": {
     "aws-sdk": "^2.663.0",
     "busboy": "0.2.4",
-    "connect": "3.4.1",
+    "connect": "3.7.0",
     "connect-ratelimit": "0.0.7",
     "connect-route": "0.1.5",
     "cors": "^2.8.5",
