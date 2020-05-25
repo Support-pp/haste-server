@@ -23,7 +23,7 @@
     "memcached": "^2.2.2",
     "pg": "4.1.1",
     "redis": "0.8.1",
-    "redis-url": "0.1.0",
+    "redis-url": "1.2.1",
     "st": "1.1.0",
     "uglify-js": "3.1.6",
     "winston": "0.6.2"
